@@ -1,0 +1,6 @@
+results/*
+results_temp/*
+results*/*
+_results*/*
+cifar-10-batches-py
+cifar-10-python.tar.gz

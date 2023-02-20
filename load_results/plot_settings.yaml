@@ -1,0 +1,28 @@
+label:
+  MMDF: MMDF
+  MMDFCA: D-MMDF-CA
+  MMDFDK: D-MMDF-DK
+  SD: SD
+  SDCA: D-SD-CA
+  SDDK: D-SD-DK
+order:
+  - MMDF
+  - MMDFCA
+  - MMDFDK
+  - SD
+  - SDCA
+  - SDDK
+color:
+  MMDF: black
+  MMDFCA: blue
+  MMDFDK: darkviolet
+  SD: darkorange
+  SDCA: red
+  SDDK: olive
+linestyle:
+  MMDF: '-'
+  MMDFCA: '-'
+  MMDFDK: '-.'
+  SD: ':'
+  SDCA: '-'
+  SDDK: '-.'
